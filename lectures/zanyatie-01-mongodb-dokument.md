@@ -68,3 +68,6 @@ MongoDB хранит документы в формате **BSON** — двои�
 
 - Задание 1 ([`lesson_01`](../lesson_01/README.md)): своя коллекция
   `seed.json`, запросы `queries.md`, README запуска, скриншот коллекции.
+  
+Моё дз:
+https://docs.google.com/document/d/134pkrB0330IK6f219yIhRda8jZo0WbeiZFz5ULghQ10/edit?usp=sharing
