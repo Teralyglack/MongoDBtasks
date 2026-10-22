@@ -23,10 +23,10 @@
 
 | База | Должно быть | У меня |
 |---|---|---|
-| `shop` | products 21 · orders 120 · customers 20 |  |
-| `hh` | resumes 9 · vacancies 8 · companies 8 · interviews 60 |  |
-| `logs` | events 1200 |  |
-| `org` | employees 15 · categories 10 |  |
+| `shop` | products 21 · orders 120 · customers 20 | products 21 · orders 120 · customers 20  |
+| `hh` | resumes 9 · vacancies 8 · companies 8 · interviews 60 | resumes 9 · vacancies 8 · companies 8 · interviews 60 |
+| `logs` | events 1200 |  events 1200 |
+| `org` | employees 15 · categories 10 | employees 15 · categories 10 |
 
 ## Скриншоты
 
