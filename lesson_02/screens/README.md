@@ -4,6 +4,7 @@ PNG, из MongoDB Compass: `01-bazy.png` — список баз, `02-shop.png`,
 `03-hh.png`, `04-logs.png`, `05-org.png` — базы с числами документов.
 
 Все базы
+
 <img width="387" height="675" alt="01-bazy" src="https://github.com/user-attachments/assets/32a3cdca-24d5-4e49-a136-559944ab406e" />
 
 База shop
