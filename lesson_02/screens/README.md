@@ -5,6 +5,7 @@ PNG, из MongoDB Compass: `01-bazy.png` — список баз, `02-shop.png`,
 
 Все базы
 <img width="387" height="675" alt="01-bazy" src="https://github.com/user-attachments/assets/32a3cdca-24d5-4e49-a136-559944ab406e" />
+
 База shop
 <img width="1908" height="1077" alt="02-shop" src="https://github.com/user-attachments/assets/b3e92da4-c7db-45d7-92ab-7c148cbad5ea" />
 База hh
@@ -15,4 +16,3 @@ PNG, из MongoDB Compass: `01-bazy.png` — список баз, `02-shop.png`,
 <img width="1911" height="1070" alt="05-org" src="https://github.com/user-attachments/assets/01efc9b9-a516-4c4e-a42e-852c72ce5115" />
 
 
-![shop](screens/02-shop.png)
