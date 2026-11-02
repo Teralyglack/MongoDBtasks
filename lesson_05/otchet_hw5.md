@@ -4,9 +4,13 @@
 
 <img width="1321" height="222" alt="Снимок экрана 2026-11-02 055159" src="https://github.com/user-attachments/assets/3a6c73d8-7a2c-4967-b9ae-c9ef289dfa7a" />
 2. Как я запускала
+
 Сервер MongoDB работает в Docker (docker compose up -d).
+
 Перед работой база была приведена к чистому виду: docker compose run --rm reset.
+
 Скрипт запускала копией из папки work: docker compose run --rm python work/hh_search.py
+
 Чтобы Compass показывал тот же сервер, что и Docker, я остановила службу MongoDB в Windows (Stop-Service MongoDB).
 
 Таблица
