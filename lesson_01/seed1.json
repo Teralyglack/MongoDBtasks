@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Двухкомнатная у набережной",
+    "city": "Ярославль",
+    "address": { "street": "Кирова", "house": "12", "floor": 3 },
+    "rooms": 2,
+    "price": 32000,
+    "amenities": ["wifi", "стиральная машина", "балкон"],
+    "pets_allowed": true
+  },
+  {
+    "title": "Студия рядом с метро",
+    "city": "Москва",
+    "address": { "street": "Лесная", "house": "5", "floor": 9, "metro": "Белорусская" },
+    "rooms": 1,
+    "price": 68000,
+    "amenities": ["wifi", "кондиционер"],
+    "pets_allowed": false
+  },
+  {
+    "title": "Трёшка для семьи",
+    "city": "Ярославль",
+    "address": { "street": "Победы", "house": "27", "floor": 5 },
+    "rooms": 3,
+    "price": 45000,
+    "amenities": ["wifi", "парковка", "детская площадка"],
+    "pets_allowed": true,
+    "video_tour": "https://example.com/tours/pobedy-27"
+  },
+  {
+    "title": "Комната в общежитии",
+    "city": "Казань",
+    "address": { "street": "Баумана", "house": "44" },
+    "rooms": 1,
+    "price": 15000,
+    "utilities_included": true
+  },
+  {
+    "title": "Квартира после ремонта",
+    "city": "Ярославль",
+    "address": { "street": "Победы", "house": "31", "floor": 2 },
+    "rooms": 2,
+    "price": 38000,
+    "amenities": ["балкон", "мебель"],
+    "pets_allowed": false
+  }
+]
